@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarImpundementSystem/1.0.0": {
+        "runtime": {
+          "CarImpundementSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarImpundementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
