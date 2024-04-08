@@ -5,7 +5,7 @@ namespace CarImpundementSystem.Controllers
 {
     public class UserController : Controller
     {
-        public ActionResult SearchByLicensePlate(string licensePlate)
+        public ActionResult SearchByLicensePlate (string licensePlate)
         {
 
 
@@ -14,6 +14,11 @@ namespace CarImpundementSystem.Controllers
         }
 
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult SearchByLicense()
         {
             return View();
         }

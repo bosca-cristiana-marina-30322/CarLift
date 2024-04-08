@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\user\\searchbylicense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\user\\searchbylicense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|c:\\facultate\\an 3\\sem 2\\ii\\proiect\\code\\carimpundementsystem\\carimpundementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F66C334-AAC6-4371-A582-A1C712965E92}|CarImpundementSystem\\CarImpundementSystem.csproj|solutionrelative:carimpundementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:05:19.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T10:50:27.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchByLicense.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\User\\SearchByLicense.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\User\\SearchByLicense.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\User\\SearchByLicense.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\User\\SearchByLicense.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T10:28:47.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CarImpundementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:25:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:31:26.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:31:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:44:17.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Program.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Program.cs",
+              "RelativeToolTip": "CarImpundementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:15:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CarImpundementSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T09:31:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarImpundementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\facultate\\an 3\\sem 2\\II\\proiect\\code\\CarImpundementSystem\\CarImpundementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarImpundementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:06:46.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
